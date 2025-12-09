@@ -1,2 +1,0 @@
-# Portfolio
-A CSE Student.
